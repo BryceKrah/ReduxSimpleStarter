@@ -5,7 +5,6 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 
-
 // downward data flow = most parent component should be the one doing data fetching
 
 class App extends Component {
